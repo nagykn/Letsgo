@@ -1,11 +1,11 @@
 const staticDababy = "dababy-site-v1"
 const assets = [
-  "/",
-  "/index.html",
-  "/css/main.css",
-  "/app/app.js",
-  "/media/letsgo.jpg",
-  "/media/letsgo.mp3",
+  "",
+  "index.html",
+  "css/main.css",
+  "app/app.js",
+  "media/letsgo.jpg",
+  "media/letsgo.mp3",
 ]
 
 self.addEventListener("install", installEvent => {
