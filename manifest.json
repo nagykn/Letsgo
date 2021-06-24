@@ -1,7 +1,7 @@
 {
     "name": "Let's go!",
     "short_name": "Let's go!",
-    "start_url": "index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffff66",
     "theme_color": "#cc3300",
