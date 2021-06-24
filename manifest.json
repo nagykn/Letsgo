@@ -1,0 +1,43 @@
+{
+    "name": "Let's go!",
+    "short_name": "Let's go!",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffff66",
+    "theme_color": "#cc3300",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/images/icons/1.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/images/icons/2.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/images/icons/3.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/images/icons/4.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "/images/icons/5.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "/images/icons/6.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "/images/icons/7.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "/images/icons/8.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
